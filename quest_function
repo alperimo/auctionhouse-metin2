@@ -1,0 +1,14 @@
+find
+sub
+item3.get_attr
+item2.get_attr
+item2.set_attr
+string.find
+os.remove
+read
+io.write
+io.output
+io.flush
+io.close
+getinput2
+getinput
